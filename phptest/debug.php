@@ -92,9 +92,9 @@ print "<td>$worker_name</td>\n";
 
 print "<td>$worker_address</td>\n";
 
-print "<td>$worker_phone</td>\n";
+print "      <td>$worker_phone</td>\n";
 
-print " </tr>\n";
+print "      </tr>\n";
 
 }
 
